@@ -1,0 +1,30 @@
+
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+}
+.font-color{
+    color: #2cccc4;
+}
+.bg-color{
+    background-color: #bfe7e5;
+}
+.font-left{
+    text-align: justify;
+}
+.more{
+    text-align: justify;
+}
+.mid-div{
+    background-color: #bfe7e5;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+@media screen and (max-width: 800px) {
+    .carousel12{
+        width: 100%;
+    }
+}
